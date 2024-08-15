@@ -6,14 +6,14 @@ The project is built using HTMl5, CSS and JavaScript to test my knowledge on fle
 
 ## Home page<br>
 Welcome to our Gym Project Homepage. As you land on our sleek interface, you're greeted with the attractive image and text that briefly describe the Motivational Quote.<br>
-### Implementation Details.<br>
+### Implementation Details.
 HTML elements: Utilizing header, div, section and main tags for structuring content. <br>
 CSS properties: Employed background-color, background-image, flex, z-index, and position for styling and layout management. 
 JavaScript: Utilizing functions and values, addEventListener properties. Join Button when clicked display the form which asked for User name and Email for joining. If any of the field is empty then alert message is displayed. If every field is filled and correct then message is displayed showing Welcome along with the name of the User.
 
 ## About Us<br>
 This section include the information about Gym. <br>
-### Implementation details<br>
+### Implementation details. <br>
 HTML elements: Utilizing heading and div tag. CSS properties: background-color, margin, padding.<br>
 
 ## Why Choose Us<br>
